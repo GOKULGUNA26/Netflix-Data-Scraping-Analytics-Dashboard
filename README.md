@@ -27,3 +27,24 @@ I wanted to understand what kind of content dominates Netflix – which genres a
 - Pandas, NumPy, Matplotlib, Seaborn (for data analysis & visualization)
 
 - Tableau Public (for dashboard creation)
+
+# How It Works (Step-by-Step)
+
+- Scraping:
+
+Used Python and BeautifulSoup to extract movie/show details from Netflix’s genre page.
+
+Extracted data includes title, genre, release year, cast, rating, and description.
+
+
+- Data Cleaning & Analysis:
+
+Used Pandas to clean the dataset and remove empty or duplicate entries.
+
+Analyzed rating distributions, popular genres, and content trends over the years.
+
+
+- Dashboard Creation:
+
+Created visual charts in Tableau to display country-wise content, top genres, rating breakdowns, and content type ratios (Movie vs. TV Show).
+
